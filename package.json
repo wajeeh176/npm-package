@@ -1,0 +1,19 @@
+{
+  "name": "arithmetic",
+  "version": "1.0.0",
+  "description": "basic arithmetic",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wajeeh176/npm-package.git"
+  },
+  "author": "wajeeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wajeeh176/npm-package/issues"
+  },
+  "homepage": "https://github.com/wajeeh176/npm-package#readme"
+}
