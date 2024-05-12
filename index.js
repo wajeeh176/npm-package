@@ -1,9 +1,7 @@
 // index.js
 
 module.exports = {
-    add: (a, b) => a + b,
-    subtract: (a, b) => a - b,
-    multiply: (a, b) => a * b,
-    divide: (a, b) => a / b
+    celsiusToFahrenheit: (celsius) => (celsius * 9/5) + 32,
+    fahrenheitToCelsius: (fahrenheit) => (fahrenheit - 32) * 5/9
   };
   

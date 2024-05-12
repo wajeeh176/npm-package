@@ -1,7 +1,7 @@
 {
-  "name": "arithmetic",
+  "name": "temp-converter",
   "version": "1.0.0",
-  "description": "basic arithmetic",
+  "description": "Converts farenhite into celsius and vice versa",
   "main": "index.js",
   "scripts": {
     "test": " "
