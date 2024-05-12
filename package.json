@@ -1,5 +1,5 @@
 {
-  "name": "temp-converter",
+  "name": "wajeehs-temperature-converter",
   "version": "1.0.0",
   "description": "Converts farenhite into celsius and vice versa",
   "main": "index.js",
